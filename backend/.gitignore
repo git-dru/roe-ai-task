@@ -1,0 +1,17 @@
+# Ignore cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Django specific files
+/media/
+
+# Ignore environment files
+.env
+.venv/
+venv/
+env/
+
+# Ignore editor specific files
+.vscode/
+.idea/
